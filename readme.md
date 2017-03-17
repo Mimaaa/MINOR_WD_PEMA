@@ -1,5 +1,14 @@
 # Performance Matters
 
+## TO-DO
+
+- optimizing font-load with FontFaceObserver
+- load styles async (LOADCSS)
+- optimize script loading (defer)
+- merging feature branches
+
+I have not merged the feature branches yet because I'm really scared of breaking everything, so I'll leave that on the to-do till Monday when I can get some help.
+
 ## Master branch (original files)
 
 I started with the original files and did some tests to see how long it took to render usable data and I also ran a performance test on Google's website.
