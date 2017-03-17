@@ -1,5 +1,7 @@
 # Performance Matters
 
+I must say I really really like this course. It's a lot of fun to improve the website and test it over and over again. A lot of the things we learned are really handy to implement in my (future (hobby)) projects. Because of this course and Titus I also learned to work with the terminal and Github much better, which is awesome!
+
 ## TO-DO
 
 - optimizing font-load with FontFaceObserver
